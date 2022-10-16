@@ -1,0 +1,4 @@
+AuthType Basic 
+AuthName "Staff" 
+AuthUserFile /AshleyFluteyBIT607Assignment2/TheHaukaiRestaurant/Staff/.htpasswd 
+require valid-user
